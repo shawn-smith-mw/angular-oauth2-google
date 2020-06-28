@@ -2,6 +2,10 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
 
+## SETUP
+
+add your client Id to src/environment.ts by adding the key-value pair `clientId: "<your client id>"` see [here](https://developers.google.com/identity/protocols/oauth2) for details
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
